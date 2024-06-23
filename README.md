@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software and Web Development
 - 🌱 I’m currently learning Computer Science and Design Engineering
 - 💞️ I’m looking to collaborate on any projects
-- 📫 How to reach me : Instagram => @_starman_05_.
+- 📫 How to reach me : Instagram => @\_starman_05\_
 - ⚡ Fun fact: I am a great fan of Astronomy and Rocket Science
 
 <!---
