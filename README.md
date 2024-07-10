@@ -1,6 +1,5 @@
 # 👋 Hi there,
 * Find all Lab related Program Codes here.
-* These repo were made with intension to help students
 * Please make good use of the source
 
 ## [@starmanfrommars](https://github.com/starmanfrommars)
