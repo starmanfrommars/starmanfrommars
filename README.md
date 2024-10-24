@@ -1,7 +1,7 @@
 # 👋 Hi there,
 * Find all Lab related Program Codes here.
 * Please make good use of the source
-* Find some usefull stuff at [My Site](https://starmanfrommars.github.io/)
+* Find some usefull stuff at [W3.CSS Cheatsheet](https://starmanfrommars.github.io/)
 
 ## [@starmanfrommars](https://github.com/starmanfrommars)
 
